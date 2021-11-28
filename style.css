@@ -1,0 +1,30 @@
+.link-buttom{
+text-decoration:none
+
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.haif-width{
+    width: 50px;
+    padding-left: 5%;
+    padding-top: 0%;
+    padding-right: 10%;
+
+
+
+
+section{
+    display: flex;
+}
+footer{
+text-align: center;
+}
+p{
+    font-size: 50px;
+}
